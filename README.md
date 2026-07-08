@@ -21,6 +21,17 @@ Our goal is to stay consistent, learn together, and build strong programming and
 - Srujana
 
 ---
+# 🤝 Why This Workflow?
+
+This repository uses **both individual branches and individual directories** because they serve different purposes.
+
+### 🌿 Branches
+Each member works on their own branch.
+
+This allows us to:
+- Learn professional Git workflows.
+- Work independently without affecting others.
+- Practice branching, committing, pushing, pull requests, and merging.
 
 # 📁 Repository Structure
 
