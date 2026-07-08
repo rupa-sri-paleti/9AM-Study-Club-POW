@@ -23,15 +23,12 @@ Our goal is to stay consistent, learn together, and build strong programming and
 ---
 # 🤝 Why This Workflow?
 
-This repository uses **both individual branches and individual directories** because they serve different purposes.
+This repository uses **both directories and branches**.
 
-### 🌿 Branches
-Each member works on their own branch.
+- **Directories** keep everyone's work organized after it is merged into `main`.
+- **Branches** allow each member to work independently while learning real-world Git collaboration.
 
-This allows us to:
-- Learn professional Git workflows.
-- Work independently without affecting others.
-- Practice branching, committing, pushing, pull requests, and merging.
+This approach helps us stay organized while building practical Git skills that are commonly used in software development.
 
 # 📁 Repository Structure
 
